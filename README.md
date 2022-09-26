@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![image](https://github.com/AnshShah77/quiz-app/blob/master/static/image.png?raw=true)
+![image](https://github.com/AnshShah77/quiz-app/blob/master/static/image-2.png?raw=true)
+![image](https://github.com/AnshShah77/quiz-app/blob/master/static/image-3.png?raw=true)
+![image](https://github.com/AnshShah77/quiz-app/blob/master/static/image-4.png?raw=true)
+![image](https://github.com/AnshShah77/quiz-app/blob/master/static/image-5.png?raw=true)
+![image](https://github.com/AnshShah77/quiz-app/blob/master/static/image-6.png?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
